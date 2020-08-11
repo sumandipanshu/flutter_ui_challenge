@@ -2,6 +2,11 @@
 
 Login UI
 
+
+Here's what it looks like:
+
+![Output sample](https://github.com/sumandipanshu/flutter_ui_challenge/blob/master/login/login_ui.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
