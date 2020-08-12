@@ -1,0 +1,26 @@
+name: shop
+description: A COVID-19 online shopping app UI.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.3
+  font_awesome_flutter: ^8.8.1
+  image: ^2.1.14
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - images/
